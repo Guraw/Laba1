@@ -1,0 +1,23 @@
+# Laba1
+<title>Пример 2_4</title>
+</head> 
+<body> 
+<form> 
+ </form>
+<script>
+var n; var i;var x;
+var x = i*i*i-3*i*n*n+n;
+var n = prompt('Введите n','');
+var t = n ;
+if (t>=60)
+{
+alert('Число должно быть меньше 60');
+}
+else
+for(i=1;i<=n;++i)
+{
+alert((i*i*i-3*i*n*n)+(+n));
+}
+</script>
+ </body>
+ </html> 
